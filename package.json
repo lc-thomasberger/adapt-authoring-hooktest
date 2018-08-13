@@ -1,0 +1,21 @@
+{
+  "name": "adapt-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "include": "lib/*"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
