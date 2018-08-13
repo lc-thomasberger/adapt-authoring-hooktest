@@ -1,5 +1,5 @@
 {
-  "name": "adapt-test",
+  "name": "adapt-authoring-hooktest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "/"
   ],
   "dependencies": {
-    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
+    "adapt-authoring-core": "git+https://github.com/lc-thomasberger/adapt-authoring-core.git#basicHook"
   },
   "author": "",
   "license": "ISC"
