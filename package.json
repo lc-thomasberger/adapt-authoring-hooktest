@@ -1,8 +1,12 @@
 {
-  "name": "adapt-authoring-hooktest",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "_from": "git+https://github.com/lc-thomasberger/adapt-authoring-hooktest.git",
+  "_id": "adapt-authoring-hooktest@0.0.1",
+  "_inBundle": false,
+  "_location": "/adapt-authoring-hooktest",
+  "_phantomChildren": {},
+  "_requiredBy": [
+    "/"
+  ],
   "adapt_authoring": {
     "module": true,
     "documentation": {
@@ -10,12 +14,13 @@
       "include": "lib/*"
     }
   },
-  "_requiredBy": [
-    "/"
-  ],
+  "bundleDependencies": false,
   "dependencies": {
     "adapt-authoring-core": "git+https://github.com/lc-thomasberger/adapt-authoring-core.git#basicHook"
   },
-  "author": "",
-  "license": "ISC"
+  "deprecated": false,
+  "description": "",
+  "main": "index.js",
+  "name": "adapt-authoring-hooktest",
+  "version": "0.0.1"
 }
